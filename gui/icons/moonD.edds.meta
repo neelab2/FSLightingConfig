@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{0811C568E0AC4F5E}FSLightingConfig/gui/icons/moonD.edds"
+ Author "andi"
+ ChangeDate 509882173
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "moonD.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
